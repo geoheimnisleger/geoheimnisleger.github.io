@@ -21,7 +21,7 @@ p {
 }
 
 header {
-    background-color: orangered;
+    background-color: #02874d;
     padding: 20px 50px;
     color: white;
     font-size: 32px;
@@ -127,7 +127,7 @@ footer .legal-links {
 }
 
 .button {
-    color: orangered;
+    color: #02874d;
     background-color: white;
     padding: 8px 16px;
     text-decoration: none;
@@ -258,7 +258,7 @@ input {
 }
 
 .button-orange {
-    background-color: orangered;
+    background-color: #02874d;
     color: white;
     margin: 0px 16px;
     width: 100px;
