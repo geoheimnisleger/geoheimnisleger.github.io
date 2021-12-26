@@ -313,7 +313,8 @@ input {
         padding: 20px 20px;
     }
     .quicklinks {
-        padding: 20px 20px;
+        font-size: 18px;
+        padding: 10px 10px;
     }
     h2,
     .pretitle,
