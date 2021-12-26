@@ -117,13 +117,13 @@ footer .legal-links {
 }
 
 .quicklinks a {
-    color: rgba(0, 0, 0, 0.4);
+    color: rgba(255, 255, 255, 0.4);
     font-weight: 500;
-    margin-right: 32px;
+    margin-right: 16px;
 }
 
 .quicklinks a:hover {
-    color: rgba(0, 0, 0, 0.6);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .button {
@@ -275,7 +275,7 @@ input {
 }
 
 .pretitle {
-    color: orangered;
+    color: #02874d;
     font-weight: 600;
     font-size: 20px;
     margin-top: 10px;
@@ -309,10 +309,12 @@ input {
 
 @media (max-width: 800px) {
     header {
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 24px;
         padding: 20px 20px;
     }
     .quicklinks {
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 14px;
         padding: 10px 10px;
     }
