@@ -111,7 +111,7 @@ footer .legal-links {
 }
 
 .quicklinks {
-    background-color: white;
+    background-color: #02874d;
     padding: 20px 50px;
     overflow: auto;
 }
@@ -313,7 +313,7 @@ input {
         padding: 20px 20px;
     }
     .quicklinks {
-        font-size: 18px;
+        font-size: 14px;
         padding: 10px 10px;
     }
     h2,
